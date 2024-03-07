@@ -16,8 +16,11 @@
 
   
 
-Ao final do processamento, qual será o valor da variável SOMA? 91
+Ao final do processamento, qual será o valor da variável SOMA? 
 
+Resposta: 91
+
+_________________________________________________________________________________________________________
 
 3) Descubra a lógica e complete o próximo elemento:  
 
@@ -29,14 +32,17 @@ b) 2, 4, 8, 16, 32, 64, {128}  Potências de 2
 
 c) 0, 1, 4, 9, 16, 25, 36, {49} Quadrados Perfeitos 
 
-d) 4, 16, 36, 64, {88}  
+d) 4, 16, 36, 64, {91} Quadrados  
 
 e) 1, 1, 2, 3, 5, 8, {13} Sequencia Fibonacci 
 
 f) 2,10, 12, 16, 17, 18, 19, {20} Chutei 
 
+____________________________________________________________________________________________________________
 
-4) Você está em uma sala com três interruptores, cada um conectado a uma lâmpada em uma sala diferente. Você não pode ver as lâmpadas da sala em que está, mas pode ligar e desligar os interruptores quantas vezes quiser. Seu objetivo é descobrir qual interruptor controla qual lâmpada.
+4) Você está em uma sala com três interruptores, cada um conectado a uma lâmpada em uma sala diferente. 
+Você não pode ver as lâmpadas da sala em que está, mas pode ligar e desligar os interruptores quantas vezes quiser. 
+Seu objetivo é descobrir qual interruptor controla qual lâmpada.
 
 Como você faria para descobrir, usando apenas duas idas até uma das salas das lâmpadas, qual interruptor controla cada lâmpada?  
 
@@ -44,6 +50,8 @@ Resposta:
 
 Se levarmos em consideração que as lampadas emitem calor podemos usar a seguinte solução:
 
-Na segunda sala, ligamos o interruptor 1 por 15 minutos, desligamos, e em seguida ligamos o interruptor 2 e vamos até a primeira sala. A lâmpada que estiver acesa corresponde ao interruptor 2, a que estiver quente ao interruptor 1, e a lâmpada que resta só pode ser do interruptor 3.
+Na segunda sala, ligamos o interruptor 1 por 15 minutos, desligamos, e em seguida ligamos o 
+interruptor 2 e vamos até a primeira sala. A lâmpada que estiver acesa corresponde ao interruptor 2,
+ a que estiver quente ao interruptor 1, e a lâmpada que resta só pode ser do interruptor 3.
 
 
